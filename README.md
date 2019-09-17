@@ -13,7 +13,9 @@ Colonnade comes with three shortcuts.
 (```Super``` is a shorthand for ```Cmd``` on Mac OS, ```Alt``` on Windows, and ```Super``` on Linux.)
 
 ```Ctrl + Super + 2```: 2-column exact division layout, force retained
+
 ```Ctrl + Super + 3```: 3-column
+
 ```Ctrl + Super + 4```: 4-column
 
 ## Options
