@@ -1,0 +1,5 @@
+[
+ { "caption" : "Colonnade: 2 Columns", "command": "make_two_columns" },
+ { "caption" : "Colonnade: 3 Columns", "command": "make_three_columns" },
+ { "caption" : "Colonnade: 4 Columns", "command": "make_four_columns" },
+]

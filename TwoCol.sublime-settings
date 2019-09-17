@@ -1,0 +1,38 @@
+{
+	"on_activated_async_project":
+	[
+		{
+			"args":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"command": "set_layout",
+			"scope": "window"
+		}
+	]
+}

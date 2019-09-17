@@ -1,0 +1,14 @@
+[
+{
+    "keys": ["ctrl+super+2"],
+    "command": "make_two_columns",
+},
+{
+    "keys": ["ctrl+super+3"],
+    "command": "make_three_columns",
+},
+{
+    "keys": ["ctrl+super+4"],
+    "command": "make_four_columns",
+}
+]
